@@ -1,0 +1,1 @@
+This simple script that I wrote crops 4 x 6 shipping labels when they are populated onto 8 1/2 by 11 paper. Paired with tools like a label printer and websites like the pirateship.com it definitely can speed up an ecommerce's stores workflow.  
